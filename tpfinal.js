@@ -1,5 +1,5 @@
-//Mariana Mercado
-// 95503/8
+//Mariana Mercado  95503/8
+//Thomas Arismendi 95501/6
 let claseprincipal;
 
 function setup() {
